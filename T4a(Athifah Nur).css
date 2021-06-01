@@ -1,6 +1,7 @@
 body{
 	
 	font-family: arial;
+	background-image: url(background.jpg);
 }
 .Navbar{
 	text-align: center;
