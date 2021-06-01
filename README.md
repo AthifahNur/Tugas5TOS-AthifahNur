@@ -1,2 +1,2 @@
-# Tugas5TOS-AthifahNur
-Membuat sebuah Website Sederhana
+# Tugas-5-TOS-Athifah-Nur
+Membuat sebuah Artikel Sederhana
