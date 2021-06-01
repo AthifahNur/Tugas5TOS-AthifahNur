@@ -25,7 +25,7 @@ body{
 }
 
 .Navbar li a:hover{
-	color: white;
+	color: Salmon;
 	background-color: lightblue;
 }
 
