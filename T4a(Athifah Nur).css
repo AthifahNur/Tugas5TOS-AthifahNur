@@ -1,6 +1,6 @@
 body{
 	
-	font-family: arial;
+	font-family: Verdana;
 	background-image: url(background.jpg);
 }
 .Navbar{
@@ -14,8 +14,8 @@ body{
 }
 
 .Navbar ul a{
-	color: white;
-	font-size: 16px;
+	color: #f07878;
+	font-size: 17 px;
 	font-weight: bold;
 }
 
@@ -25,7 +25,7 @@ body{
 }
 
 .Navbar li a:hover{
-	color: white;
+	color: Salmon;
 	background-color: lightblue;
 }
 
