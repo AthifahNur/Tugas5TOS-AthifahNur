@@ -1,6 +1,7 @@
 body{
 	
 	font-family: arial;
+	background-image: url(background.jpg);
 }
 .Navbar{
 	text-align: center;
@@ -38,7 +39,7 @@ select{
 .container{
 	width: 700px;
 	margin: auto;
-	background: white;
+	background: grey;
 	text-align: left;
 	border: 2px solid black;
 	padding: 20px;
