@@ -80,7 +80,7 @@ footer {
   margin-top: 100px;
   background-color: white;
   padding: 50px;
-  color: gray;
+  color: lightskyblue;
   display: flex;
 }
 footer a {
@@ -101,7 +101,7 @@ footer.kiri {
 }
 footer a:hover {
 
-	color: black;
+	color: coral;
 	background-color: lightblue; 
 }
 
