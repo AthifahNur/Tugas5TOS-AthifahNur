@@ -1,0 +1,53 @@
+body{
+	
+	font-family: arial;
+}
+
+.container{
+	width: 700px;
+	margin: auto;
+	background: white;
+	text-align: left;
+	border: 2px solid black;
+	padding: 20px;
+}
+
+.container ul li img{
+	width: 30px;
+	height: 20px;
+	margin-left: 0;
+	border-top: 0;
+	border-bottom: 0;
+}
+
+.container img{
+	width: 700px;
+	border-top: 5px solid grey;
+	border-bottom: 5px solid pink;
+}
+
+.container ul{
+	border: 1px dashed black;
+	width: 200px;
+	background-color: white;
+}
+
+.container ul li{
+	color: black;
+	display: inline-block;
+	padding: 0;
+}
+
+.paragraf p a{
+	color: blue;
+	text-decoration: none;
+	font-family: times new roman;
+}
+
+
+
+.copyright {
+	text-align: center;
+	font-family: lucida sans;
+	font-weight: bold;
+}
