@@ -1,5 +1,118 @@
 body{
 	
+	font-family: arial;
+	background-image: url(background.jpg);
+}
+.Navbar{
+	text-align: center;
+}
+
+.Navbar ul li{
+	display: block;
+	padding: 10px;
+	margin-right: 5px;
+}
+
+.Navbar ul a{
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.Navbar li a{
+	color: black;
+	text-decoration: none;
+}
+
+.Navbar li a:hover{
+	color: white;
+	background-color: lightblue;
+}
+
+select{
+	background-color: silver;
+	color: white;
+	font-weight: bold;
+	outline: none; 
+	border: none;
+}
+.container{
+	width: 700px;
+	margin: auto;
+	background: grey;
+	text-align: left;
+	border: 2px solid black;
+	padding: 20px;
+}
+
+.container ul li img{
+	width: 30px;
+	height: 20px;
+	margin-left: 0;
+	border-top: 0;
+	border-bottom: 0;
+}
+
+.container img{
+	width: 700px;
+	border-top: 5px solid grey;
+	border-bottom: 5px solid pink;
+}
+
+.container ul{
+	border: 1px dashed black;
+	width: 200px;
+	background-color: white;
+}
+
+.container ul li{
+	color: black;
+	display: inline-block;
+	padding: 0;
+}
+
+.paragraf p a{
+	color: blue;
+	text-decoration: none;
+	font-family: times new roman;
+}
+footer {
+  margin-top: 100px;
+  background-color: white;
+  padding: 50px;
+  color: lightskyblue;
+  display: flex;
+}
+footer a {
+  color: black;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 45px;
+  font-weight: bold;
+  transition: 1s;
+}
+
+footer .tengah {
+	margin-left: 100px;
+	margin-right: 50px;
+}
+footer.kiri {
+	margin-left: 100px;
+}
+footer a:hover {
+
+	color: coral;
+	background-color: lightblue; 
+}
+
+.copyright {
+	text-align: center;
+	font-family: lucida sans; 
+	font-weight: bold;
+}
+=======
+body{
+	
 	font-family: Verdana;
 	background-image: url(background.jpg);
 }
