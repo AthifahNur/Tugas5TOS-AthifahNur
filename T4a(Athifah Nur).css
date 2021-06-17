@@ -8,9 +8,10 @@ body{
 }
 
 .Navbar ul li{
-	display: flex;
-	padding: 9px;
-	margin-left: 5px;
+	display: inline;
+	padding: 8px;
+	margin-right: 10px;
+  margin-left: 5px;
 }
 
 .Navbar ul a{
